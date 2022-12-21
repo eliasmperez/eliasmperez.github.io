@@ -94,7 +94,7 @@
 	color: black;
 	background-color: white;
 }
-form{
+.form{
 	width: 50%;
 	margin: auto;
 	padding: 10px 20px;
@@ -168,4 +168,18 @@ ul{
 	color: #ffffff;
 	text-decoration: none;
 	display: block;
+}
+.mb-5{
+	margin: 5px;
+}
+.form-group{
+	display: flex;
+}
+.group{
+	margin-right: 10px;
+	width: 100%;
+}
+.group1{
+	margin-left: 10px;
+	width: 100%;
 }
